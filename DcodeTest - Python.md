@@ -6,10 +6,10 @@
    - C) `{1, 4}`
    - D) `Error`
 
-2. What does the following code output: `list(zip([1, 2], [3, 4, 5]))`?
+2. What does the following code output: `list(enumerate([1,2,3,4,5,6,7]))`?
    - A) `[(1, 3), (2, 4), (None, 5)]`
-   - B) `[(1, 3), (2, 4), (None, 5)]`
-   - C) `[(1, 3), (2, 4)]`
+   - B) `[(1,1),(2,2),(3,3),(4,4),(5,5),(6,6),(7,7)]`
+   - C) `[(0,1),(1,2),(2,3),(3,4),(4,5),(5,6),(6,7)]`
    - D) `Error`
 
 3. Which statement about Python tuples is incorrect?
