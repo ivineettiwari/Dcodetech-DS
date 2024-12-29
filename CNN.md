@@ -41,8 +41,9 @@ A CNN typically consists of the following layers:
 1. **Input Layer**: Accepts raw image data.
 2. **Convolutional Layers**: Apply convolution operations to extract features.
 3. **Pooling Layers**: Reduce dimensions while retaining essential features.
-4. **Fully Connected Layers**: Learn the relationships between extracted features and make predictions.
-5. **Output Layer**: Provides final results, e.g., class probabilities.
+4. **Flatten Layers**: Reduce dimensions to 1D vector.
+5. **Fully Connected Layers**: Learn the relationships between extracted features and make predictions.
+6. **Output Layer**: Provides final results, e.g., class probabilities.
 
 ---
 
