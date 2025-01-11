@@ -283,4 +283,4 @@ print(f'Accuracy: {accuracy * 100:.2f}%')
 
 Support Vector Classifier is an effective and robust classification model, especially for smaller to medium-sized datasets with complex patterns.
 
-![SVC Classifier Representation](https://www.researchgate.net/publication/361226877/figure/fig2/AS:11431281110039334@1672282866985/Representation-of-SVC-classifier-with-hyperplanes-and-support-vectors.png)
+![SVC Classifier Representation](https://github.com/ivineettiwari/Dcodetech-DS/blob/batchJan2024/ImageFolder/Representation-of-SVC-classifier-with-hyperplanes-and-support-vectors.png)
